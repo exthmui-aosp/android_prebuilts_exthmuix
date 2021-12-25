@@ -1,0 +1,30 @@
+//
+android_library_import {
+    name: "exthmuix.core_core-nodeps",
+    aars: ["m2repository/exthmuix/core/core/1.0.0-alpha1/core-1.0.0-alpha1.aar"],
+    sdk_version: "30",
+    apex_available: [
+        "//apex_available:platform",
+        "//apex_available:anyapex",
+    ],
+    min_sdk_version: "29",
+    static_libs: [
+    	"kotlin-stdlib",
+    ],
+}
+
+android_library {
+    name: "exthmuix.core_core",
+    sdk_version: "30",
+    apex_available: [
+        "//apex_available:platform",
+        "//apex_available:anyapex",
+    ],
+    min_sdk_version: "29",
+    manifest: "manifests/exthmuix.core_core/AndroidManifest.xml",
+    static_libs: [
+    	"exthmuix.core_core-nodeps",
+        "kotlin-stdlib",
+    ],
+    java_version: "1.8",
+}
