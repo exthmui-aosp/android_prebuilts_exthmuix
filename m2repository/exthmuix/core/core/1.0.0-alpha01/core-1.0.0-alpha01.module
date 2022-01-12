@@ -3,7 +3,7 @@
   "component": {
     "group": "exthmuix.core",
     "module": "core",
-    "version": "1.0.0-alpha1",
+    "version": "1.0.0-alpha01",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "core-1.0.0-alpha1.aar",
-          "url": "core-1.0.0-alpha1.aar",
+          "name": "core-1.0.0-alpha01.aar",
+          "url": "core-1.0.0-alpha01.aar",
           "size": 39977,
           "sha512": "ebbadb08eb9c96ac1b2f5530074744263ffba8f3968b983f5eafd7bf082712286ff210456c1086064bf11f2ea2149551ba6455e37aac510f46f9d842f61d8096",
           "sha256": "efc5826c095b3d6e906b9e43ecfcb4f69c86ff6e62e4985fb5aaf0a162de4abc",
@@ -62,8 +62,8 @@
       ],
       "files": [
         {
-          "name": "core-1.0.0-alpha1.aar",
-          "url": "core-1.0.0-alpha1.aar",
+          "name": "core-1.0.0-alpha01.aar",
+          "url": "core-1.0.0-alpha01.aar",
           "size": 39977,
           "sha512": "ebbadb08eb9c96ac1b2f5530074744263ffba8f3968b983f5eafd7bf082712286ff210456c1086064bf11f2ea2149551ba6455e37aac510f46f9d842f61d8096",
           "sha256": "efc5826c095b3d6e906b9e43ecfcb4f69c86ff6e62e4985fb5aaf0a162de4abc",
