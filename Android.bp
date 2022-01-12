@@ -1,7 +1,7 @@
 //
 android_library_import {
     name: "exthmuix.core_core-nodeps",
-    aars: ["m2repository/exthmuix/core/core/1.0.0-alpha01/core-1.0.0-alpha01.aar"],
+    aars: ["m2repository/exthmuix/core/core/1.0.0-alpha02/core-1.0.0-alpha02.aar"],
     sdk_version: "30",
     apex_available: [
         "//apex_available:platform",
@@ -9,6 +9,7 @@ android_library_import {
     ],
     min_sdk_version: "29",
     static_libs: [
+        "androidx.core_core",
     	"kotlin-stdlib",
     ],
 }
@@ -23,6 +24,7 @@ android_library {
     min_sdk_version: "29",
     manifest: "manifests/exthmuix.core_core/AndroidManifest.xml",
     static_libs: [
+        "androidx.core_core",
     	"exthmuix.core_core-nodeps",
         "kotlin-stdlib",
     ],

@@ -3,7 +3,7 @@
   "component": {
     "group": "exthmuix.core",
     "module": "core",
-    "version": "1.0.0-alpha01",
+    "version": "1.0.0-alpha02",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "core-1.0.0-alpha01.aar",
-          "url": "core-1.0.0-alpha01.aar",
-          "size": 39977,
-          "sha512": "ebbadb08eb9c96ac1b2f5530074744263ffba8f3968b983f5eafd7bf082712286ff210456c1086064bf11f2ea2149551ba6455e37aac510f46f9d842f61d8096",
-          "sha256": "efc5826c095b3d6e906b9e43ecfcb4f69c86ff6e62e4985fb5aaf0a162de4abc",
-          "sha1": "5ea2f5dfd480ecb675811290f7245300f0ebd7e7",
-          "md5": "00f5830b1eac3c9c8200a20c28488122"
+          "name": "core-1.0.0-alpha02.aar",
+          "url": "core-1.0.0-alpha02.aar",
+          "size": 46861,
+          "sha512": "225976f6c014a2f105a5509f360acca73dcdaab144e8830ca45993725691a8279c4f65c930020b73effe34959f7809e294c7e9077eefab706067a3431bba6d6c",
+          "sha256": "a7b3ad0625592f3d22df63216c16cb9ac20e875b024352346ad6db08bf61e16e",
+          "sha1": "cc2210dd3fa32763e18d73c1807c736bb7b4f25b",
+          "md5": "fe8e82430da0c991605fb5b23b00a0f6"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "core-1.0.0-alpha01.aar",
-          "url": "core-1.0.0-alpha01.aar",
-          "size": 39977,
-          "sha512": "ebbadb08eb9c96ac1b2f5530074744263ffba8f3968b983f5eafd7bf082712286ff210456c1086064bf11f2ea2149551ba6455e37aac510f46f9d842f61d8096",
-          "sha256": "efc5826c095b3d6e906b9e43ecfcb4f69c86ff6e62e4985fb5aaf0a162de4abc",
-          "sha1": "5ea2f5dfd480ecb675811290f7245300f0ebd7e7",
-          "md5": "00f5830b1eac3c9c8200a20c28488122"
+          "name": "core-1.0.0-alpha02.aar",
+          "url": "core-1.0.0-alpha02.aar",
+          "size": 46861,
+          "sha512": "225976f6c014a2f105a5509f360acca73dcdaab144e8830ca45993725691a8279c4f65c930020b73effe34959f7809e294c7e9077eefab706067a3431bba6d6c",
+          "sha256": "a7b3ad0625592f3d22df63216c16cb9ac20e875b024352346ad6db08bf61e16e",
+          "sha1": "cc2210dd3fa32763e18d73c1807c736bb7b4f25b",
+          "md5": "fe8e82430da0c991605fb5b23b00a0f6"
         }
       ]
     }
